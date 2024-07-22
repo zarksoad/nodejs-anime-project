@@ -1,0 +1,13 @@
+[
+  {
+    "IdIncrement": "3"
+  },
+  {
+    "id": 1,
+    "name": "Nombre del estudio"
+  },
+  {
+    "id": 3,
+    "name": "Nuevo nombre del estudio"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "IdIncrement": "6"
+  },
+  {
+    "id": 4,
+    "name": "naruto",
+    "animeId": 1
+  },
+  {
+    "id": 5,
+    "name": "naruto",
+    "animeId": 1
+  },
+  {
+    "id": 6,
+    "name": "naruto",
+    "animeId": 1
+  }
+]
